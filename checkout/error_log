@@ -1,0 +1,36 @@
+[11-Jan-2022 08:41:59 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[11-Jan-2022 08:41:59 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Internal Server Error in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[11-Jan-2022 08:41:59 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[11-Jan-2022 08:46:59 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[11-Jan-2022 08:46:59 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Internal Server Error in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[11-Jan-2022 08:46:59 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:23:48 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:23:48 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:23:48 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:24:03 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:24:03 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:24:03 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:28:17 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:28:17 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:28:17 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:32:02 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:32:02 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:32:02 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:58:55 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:58:55 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:58:55 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:59:24 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:59:24 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 22:59:24 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 23:02:05 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 23:02:05 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[13-Jan-2022 23:02:05 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[18-Jan-2022 16:12:43 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[18-Jan-2022 16:12:43 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[18-Jan-2022 16:12:43 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[27-Jan-2022 17:21:20 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[27-Jan-2022 17:21:20 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[27-Jan-2022 17:21:20 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[16-Feb-2022 16:21:15 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[16-Feb-2022 16:21:15 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): Unauthorized in /home2/morrocavadocafe/public_html/checkout/index.php on line 44
+[16-Feb-2022 16:21:15 America/Sao_Paulo] PHP Warning:  simplexml_load_string(): ^ in /home2/morrocavadocafe/public_html/checkout/index.php on line 44

@@ -1,0 +1,3 @@
+[18-Aug-2020 13:21:06 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/morrocavadocafe/public_html/email/PHPMailer/PHPMailerAutoload.php on line 45
+[07-Nov-2020 07:32:41 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/morrocavadocafe/public_html/email/PHPMailer/PHPMailerAutoload.php on line 45
+[12-Nov-2020 14:25:29 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/morrocavadocafe/public_html/email/PHPMailer/PHPMailerAutoload.php on line 45

@@ -1,0 +1,17 @@
+[17-Jul-2019 13:17:27 America/Sao_Paulo] PHP Fatal error:  Uncaught InvalidArgumentException: customer document value is invalid. it must be a valid CPF:  in /home3/os2pro09/public_html/boleto/source/Boleto.php:13
+Stack trace:
+#0 /home3/os2pro09/public_html/boleto/gerar_boleto/boleto.php(336): Boleto->setCustomerCPF('')
+#1 {main}
+  thrown in /home3/os2pro09/public_html/boleto/source/Boleto.php on line 13
+[17-Jul-2019 13:19:59 America/Sao_Paulo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home3/os2pro09/public_html/conn/envia/email/PHPMailer/PHPMailerAutoload.php on line 45
+[17-Jul-2019 13:28:59 America/Sao_Paulo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home3/os2pro09/public_html/conn/envia/email/PHPMailer/PHPMailerAutoload.php on line 45
+[17-Jul-2019 13:34:06 America/Sao_Paulo] PHP Fatal error:  Uncaught InvalidArgumentException: customer document value is invalid. it must be a valid CPF: 11111111111 in /home3/os2pro09/public_html/boleto/source/Boleto.php:13
+Stack trace:
+#0 /home3/os2pro09/public_html/boleto/gerar_boleto/boleto.php(336): Boleto->setCustomerCPF('11111111111')
+#1 {main}
+  thrown in /home3/os2pro09/public_html/boleto/source/Boleto.php on line 13
+[17-Jul-2019 13:40:56 America/Sao_Paulo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home3/os2pro09/public_html/conn/envia/email/PHPMailer/PHPMailerAutoload.php on line 45
+[30-Dec-2019 10:56:34 America/Sao_Paulo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home3/os2pro09/public_html/conn/envia/email/PHPMailer/PHPMailerAutoload.php on line 45
+[11-Nov-2021 00:00:20 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/morrocavadocafe/public_html/checkout/gerar_boleto/boleto.php on line 174
+[11-Nov-2021 00:00:32 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/morrocavadocafe/public_html/checkout/gerar_boleto/boleto.php on line 174
+[11-Nov-2021 00:00:41 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/morrocavadocafe/public_html/checkout/gerar_boleto/boleto.php on line 174
